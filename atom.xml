@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Сохрани свои деньги в путишествиях]]></title>
+  <link href="http://andriistakhov.github.io/sitym/atom.xml" rel="self"/>
+  <link href="http://andriistakhov.github.io/sitym/"/>
+  <updated>2014-03-26T22:27:10+07:00</updated>
+  <id>http://andriistakhov.github.io/sitym/</id>
+  <author>
+    <name><![CDATA[Andrii Stakhov]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
