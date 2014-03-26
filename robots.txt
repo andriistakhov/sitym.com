@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://andriistakhov.github.io/sitym/sitemap.xml 
+Sitemap: http://sitym.com/sitemap.xml 
