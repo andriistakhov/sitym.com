@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: interview | ]]></title>
+  <link href="http://sitym.com/blog/categories/interview/atom.xml" rel="self"/>
+  <link href="http://sitym.com/"/>
+  <updated>2014-04-02T21:40:51+07:00</updated>
+  <id>http://sitym.com/</id>
+  <author>
+    <name><![CDATA[Andrii Stakhov]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Сергей Куянов - блогер, путешественник]]></title>
+    <link href="http://sitym.com/sergey-kuyanov/"/>
+    <updated>2014-04-02T21:30:21+07:00</updated>
+    <id>http://sitym.com/sergey-kuyanov</id>
+    <content type="html"><![CDATA[<p>Привет друзья.</p>
+
+<p>Сегодня у нас в гостях Сергей Куянов.</p>
+
+<p>В этой передаче Сергей поделится своим опытом поиска дома и многими другими фишками!</p>
+
+<p><img src="https://lh5.googleusercontent.com/g7zWiSdPRx8Fy0TF-wccwj5yDFIaYJMW9bHRwzxyKUQ=w463-h593-no" alt="" /></p>
+
+<p>Прошу к просмотру!</p>
+
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/QMpY0zGhaUc "></iframe></div></p>
+
+<p>Надеюсь вам понравилось видео.</p>
+
+<p>Очень буду ждать ваши комментарии, а также не забудте подписаться на наш канал.</p>
+]]></content>
+  </entry>
+  
+</feed>
