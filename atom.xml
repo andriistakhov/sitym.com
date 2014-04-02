@@ -4,7 +4,7 @@
   <title><![CDATA[]]></title>
   <link href="http://sitym.com/atom.xml" rel="self"/>
   <link href="http://sitym.com/"/>
-  <updated>2014-03-30T13:13:38+07:00</updated>
+  <updated>2014-04-02T10:55:14+07:00</updated>
   <id>http://sitym.com/</id>
   <author>
     <name><![CDATA[Andrii Stakhov]]></name>
@@ -12,5 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Лена - художник-дизайнер]]></title>
+    <link href="http://sitym.com/art-of-sun/"/>
+    <updated>2014-04-02T10:51:30+07:00</updated>
+    <id>http://sitym.com/art-of-sun</id>
+    <content type="html"><![CDATA[<p>Привет всем.</p>
+
+<p>Сегодня у нас в гостях <a href="http://1enchik.livejournal.com/">Лена</a>.</p>
+
+<p>Лена занимается дизайном и также она рисует.
+Все ее работы можно глянуть <a href="http://art_of_sun.livejournal.com/">тут</a>.</p>
+
+<p>В этом видео она поделится с вами своими секретами в путешествиях.</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/GABtTXOPTMw "></iframe></div>
+
+
+<p>Прошу извинить за оборваную речь. Некоторые технические проблемы.</p>
+
+<p>Если у вас есть вопросы к Лене, то можете их задать в комментариях к этому видео.</p>
+
+<p>Также подписывайтесь на новые передачи.</p>
+
+<p>И рассказывайте о нас вашим друзьям.</p>
+]]></content>
+  </entry>
   
 </feed>
