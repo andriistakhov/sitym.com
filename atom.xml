@@ -4,7 +4,7 @@
   <title><![CDATA[]]></title>
   <link href="http://sitym.com/atom.xml" rel="self"/>
   <link href="http://sitym.com/"/>
-  <updated>2014-04-03T15:55:41+07:00</updated>
+  <updated>2014-04-03T17:40:38+07:00</updated>
   <id>http://sitym.com/</id>
   <author>
     <name><![CDATA[Andrii Stakhov]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Александр Штафун - программист, коуч, тренер]]></title>
+    <link href="http://sitym.com/alexsandr-shtafun/"/>
+    <updated>2014-04-03T17:30:47+07:00</updated>
+    <id>http://sitym.com/alexsandr-shtafun</id>
+    <content type="html"><![CDATA[<p>Привет друзья.</p>
+
+<p>Сегодня у нас в гостях, замечательный человек &ndash; <a href="http://leaderinfo.ru/wppage/you-programmer/">Александр Штафун</a>.</p>
+
+<p>Саша несколько лет работал программистом и сейчас он перешел в инфобизнес.</p>
+
+<p><img src="https://lh4.googleusercontent.com/-j2qYNuPAWa4/Uz05U0xZG8I/AAAAAAAAAKg/24NJQeAc7mQ/w366-h549-no/AlexShtafun.jpg" alt="" /></p>
+
+<p>В этом видео Саша поделится своим опытом!</p>
+
+<!-- more -->
+
+
+
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/_fKSGNdus "></iframe></div>
+
+
+<p>Если вы хотите пройти курс Александра. Заходите по <a href="http://leaderinfo.ru/wppage/you-programmer/">этой ссылке</a> и пройдите регистрацию!</p>
+
+<p>Если у вас остались вопросы к Саше, можете их писать в комментариях.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Кира Штафун - блогер, сыроед, бизнесвумен]]></title>
