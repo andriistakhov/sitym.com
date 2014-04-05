@@ -4,7 +4,7 @@
   <title><![CDATA[Sitym.com]]></title>
   <link href="http://sitym.com/atom.xml" rel="self"/>
   <link href="http://sitym.com/"/>
-  <updated>2014-04-05T21:04:56+07:00</updated>
+  <updated>2014-04-05T21:20:25+07:00</updated>
   <id>http://sitym.com/</id>
   <author>
     <name><![CDATA[Andrii Stakhov]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Виктор Горлов - блогер, путешественник]]></title>
+    <link href="http://sitym.com/viktor-gorlov/"/>
+    <updated>2014-04-05T21:11:52+07:00</updated>
+    <id>http://sitym.com/viktor-gorlov</id>
+    <content type="html"><![CDATA[<p>Привет друзья.</p>
+
+<p>Сегодня у меня в гостях <a href="http://vgorlov.ru/">Виктор Горлов</a>.</p>
+
+<p><img src="https://lh5.googleusercontent.com/-yBRG0q5EgKs/U0AQJk7i7fI/AAAAAAAAAO8/AgHidE6XL9Q/w353-h549-no/7ba3d77cb2e1198423a92fc23c455779.jpg" alt="" /></p>
+
+<p>Виктор ведет очень увлекательный <a href="http://vgorlov.ru/">блог</a>.</p>
+
+<!-- more -->
+
+
+<p>Но в этом видео, он поделится своими мыслями о путешествиях.</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/3HFu6eygsrM "></iframe></div>
+
+
+<p>Надеюсь, что это видео, заставило вас задуматься и начать действовать.</p>
+
+<p>Пишите ваши комментарии и подписывайтесь на обновления.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Александр Сафиуллин - мастер цыгун, путешественник]]></title>
