@@ -4,7 +4,7 @@
   <title><![CDATA[Sitym.com]]></title>
   <link href="http://sitym.com/atom.xml" rel="self"/>
   <link href="http://sitym.com/"/>
-  <updated>2014-04-07T09:37:30+07:00</updated>
+  <updated>2014-04-07T10:02:52+07:00</updated>
   <id>http://sitym.com/</id>
   <author>
     <name><![CDATA[Andrii Stakhov]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Дмитрий Пелин - блогер, путешественник]]></title>
+    <link href="http://sitym.com/dmitry-pelin/"/>
+    <updated>2014-04-07T09:54:24+07:00</updated>
+    <id>http://sitym.com/dmitry-pelin</id>
+    <content type="html"><![CDATA[<p>Привет друзья.</p>
+
+<p>Сегодня у нас в гостях самый позитивный человек &ndash; <a href="http://ontheedge.ru/">Дмитрий Пелин</a>.</p>
+
+<p><img src="https://lh5.googleusercontent.com/-THXW195ciVs/U0IUTsx4VPI/AAAAAAAAAQY/KMDBiunuuXc/s549-no/9bI30KsZlKo.jpg" alt="" /></p>
+
+<p>Так как Дмитрий является путешественником с огромнейшим опытом, в этом видео он делится своими секретами!</p>
+
+<!-- more -->
+
+
+
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/1VJEdBrGv_U "></iframe></div>
+
+
+<p>Много полезной информации вы можете получить на сайте Дмитрия &ndash; <a href="http://ontheedge.ru/">&ldquo;На грани&rdquo;</a>.</p>
+
+<p>Пишите комментарии, подписывайтесь на канал!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Марина Шамина - путешественница, бизнесвумен]]></title>
