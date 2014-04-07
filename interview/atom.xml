@@ -4,7 +4,7 @@
   <title><![CDATA[Category: interview | Sitym.com]]></title>
   <link href="http://sitym.com//interview/atom.xml" rel="self"/>
   <link href="http://sitym.com/"/>
-  <updated>2014-04-07T16:36:36+07:00</updated>
+  <updated>2014-04-07T16:48:53+07:00</updated>
   <id>http://sitym.com/</id>
   <author>
     <name><![CDATA[Andrii Stakhov]]></name>
@@ -29,7 +29,7 @@
 <!-- more -->
 
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/Iuu-7wNCtEg "></iframe></div></p>
+<p>{% youtube Iuu-7wNCtEg %}</p>
 
 <p>Надеюсь вам понравилось данное видео.</p>
 
@@ -53,7 +53,7 @@
 <!-- more -->
 
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/1VJEdBrGv_U "></iframe></div></p>
+<p>{% youtube 1VJEdBrGv_U %}</p>
 
 <p>Много полезной информации вы можете получить на сайте Дмитрия &ndash; <a href="http://ontheedge.ru/">&ldquo;На грани&rdquo;</a>.</p>
 
@@ -77,7 +77,7 @@
 <!-- more -->
 
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/UE_k9Erq5nc "></iframe></div></p>
+<p>{% youtube UE_k9Erq5nc %}</p>
 
 <p>Я скажу вам, что Марина ведет очень увлекательный блог на тему хобби. Но не просто хобби, а хобби на миллион.</p>
 
@@ -105,7 +105,7 @@
 
 <p>Но в этом видео, он поделится своими мыслями о путешествиях.</p>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/3HFu6eygsrM "></iframe></div></p>
+<p>{% youtube 3HFu6eygsrM %}</p>
 
 <p>Надеюсь, что это видео, заставило вас задуматься и начать действовать.</p>
 
@@ -133,7 +133,7 @@
 
 <p></p>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/n07rVrtb4Is "></iframe></div></p>
+<p>{% youtube n07rVrtb4Is %}</p>
 
 <p>Больше материала, о Валике вы можете увидеть на его <a href="http://kickasstrip.com/">официальном блоге</a></p>
 
