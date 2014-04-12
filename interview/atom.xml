@@ -4,7 +4,7 @@
   <title><![CDATA[Category: interview | Sitym.com]]></title>
   <link href="http://sitym.com//interview/atom.xml" rel="self"/>
   <link href="http://sitym.com/"/>
-  <updated>2014-04-07T16:48:53+07:00</updated>
+  <updated>2014-04-12T22:00:48+03:00</updated>
   <id>http://sitym.com/</id>
   <author>
     <name><![CDATA[Andrii Stakhov]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Лена Соловова заработок в сети]]></title>
     <link href="http://sitym.com/elena-solovova-money/"/>
-    <updated>2014-04-07T10:06:46+07:00</updated>
+    <updated>2014-04-07T06:06:46+03:00</updated>
     <id>http://sitym.com/elena-solovova-money</id>
     <content type="html"><![CDATA[<p>Друзья всем привет.</p>
 
@@ -29,7 +29,7 @@
 <!-- more -->
 
 
-<p>{% youtube Iuu-7wNCtEg %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/Iuu-7wNCtEg "></iframe></div></p>
 
 <p>Надеюсь вам понравилось данное видео.</p>
 
@@ -40,7 +40,7 @@
   <entry>
     <title type="html"><![CDATA[Дмитрий Пелин - блогер, путешественник]]></title>
     <link href="http://sitym.com/dmitry-pelin/"/>
-    <updated>2014-04-07T09:54:24+07:00</updated>
+    <updated>2014-04-07T05:54:24+03:00</updated>
     <id>http://sitym.com/dmitry-pelin</id>
     <content type="html"><![CDATA[<p>Привет друзья.</p>
 
@@ -53,7 +53,7 @@
 <!-- more -->
 
 
-<p>{% youtube 1VJEdBrGv_U %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/1VJEdBrGv_U "></iframe></div></p>
 
 <p>Много полезной информации вы можете получить на сайте Дмитрия &ndash; <a href="http://ontheedge.ru/">&ldquo;На грани&rdquo;</a>.</p>
 
@@ -64,7 +64,7 @@
   <entry>
     <title type="html"><![CDATA[Марина Шамина - путешественница, бизнесвумен]]></title>
     <link href="http://sitym.com/marina-shamina/"/>
-    <updated>2014-04-07T07:56:02+07:00</updated>
+    <updated>2014-04-07T03:56:02+03:00</updated>
     <id>http://sitym.com/marina-shamina</id>
     <content type="html"><![CDATA[<p>Привет друзья.</p>
 
@@ -77,7 +77,7 @@
 <!-- more -->
 
 
-<p>{% youtube UE_k9Erq5nc %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/UE_k9Erq5nc "></iframe></div></p>
 
 <p>Я скажу вам, что Марина ведет очень увлекательный блог на тему хобби. Но не просто хобби, а хобби на миллион.</p>
 
@@ -90,7 +90,7 @@
   <entry>
     <title type="html"><![CDATA[Виктор Горлов - блогер, путешественник]]></title>
     <link href="http://sitym.com/viktor-gorlov/"/>
-    <updated>2014-04-05T21:11:52+07:00</updated>
+    <updated>2014-04-05T17:11:52+03:00</updated>
     <id>http://sitym.com/viktor-gorlov</id>
     <content type="html"><![CDATA[<p>Привет друзья.</p>
 
@@ -105,7 +105,7 @@
 
 <p>Но в этом видео, он поделится своими мыслями о путешествиях.</p>
 
-<p>{% youtube 3HFu6eygsrM %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/3HFu6eygsrM "></iframe></div></p>
 
 <p>Надеюсь, что это видео, заставило вас задуматься и начать действовать.</p>
 
@@ -116,7 +116,7 @@
   <entry>
     <title type="html"><![CDATA[Валентин Василевский - блогер, путешественник]]></title>
     <link href="http://sitym.com/valentin-vasilevskyy/"/>
-    <updated>2014-04-04T10:51:43+07:00</updated>
+    <updated>2014-04-04T06:51:43+03:00</updated>
     <id>http://sitym.com/valentin-vasilevskyy</id>
     <content type="html"><![CDATA[<p>Привет друзья.</p>
 
@@ -133,7 +133,7 @@
 
 <p></p>
 
-<p>{% youtube n07rVrtb4Is %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/n07rVrtb4Is "></iframe></div></p>
 
 <p>Больше материала, о Валике вы можете увидеть на его <a href="http://kickasstrip.com/">официальном блоге</a></p>
 
