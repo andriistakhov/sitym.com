@@ -4,7 +4,7 @@
   <title><![CDATA[Sitym.com]]></title>
   <link href="http://sitym.com/atom.xml" rel="self"/>
   <link href="http://sitym.com/"/>
-  <updated>2014-04-14T13:14:51+03:00</updated>
+  <updated>2014-04-14T13:21:30+03:00</updated>
   <id>http://sitym.com/</id>
   <author>
     <name><![CDATA[Andrii Stakhov]]></name>
@@ -14,13 +14,45 @@
 
   
   <entry>
+    <title type="html"><![CDATA[momondo - поисковик дешевых авиабилетов]]></title>
+    <link href="http://sitym.com/momondo/"/>
+    <updated>2014-04-14T13:15:18+03:00</updated>
+    <id>http://sitym.com/momondo</id>
+    <content type="html"><![CDATA[<p><img src="https://lh3.googleusercontent.com/-2oamd0gsRPQ/U0Upd0SqbMI/AAAAAAAAAU4/yXg9RnBDg8k/w905-h302-no/1273.momondo_18x6cm_all.jpg" alt="" /></p>
+
+<p><strong><a href="www.momondo.com">momondo</a></strong> – это международная система поиска авиабилетов. Ее участниками являются более 700 авиакомпаний и турагентств в России и других странах. Когда Вы задаете на сайте Момондо маршрут своего будущего путешествия, электронная система сканирует все эти сайты, находит подходящие предложения, чтобы уже среди них Вы смогли выбрать лучшее.</p>
+
+<p>Момондо не продает авиабилеты, но с ее сайта можно перейти на сайты авиакомпаний и дилерских организаций, где и приобрести билет. На авиабилеты от Момондо не делаются никакие наценки и комиссии. Услуги поиска авиабилетов через Момондо абсолютно бесплатны.</p>
+
+<p><img src="https://lh4.googleusercontent.com/-wxDzL_asx9c/U0Upn2_3qDI/AAAAAAAAAYI/GOqyI6YtTIM/s200-no/momondo.jpg" alt="" /></p>
+
+<h3>В двух словах о MOMONDO</h3>
+
+<p>Преимущества:
+1.     Абсолютно бесплатный сервис
+2.     Большая база более 800 проверенных сайтов и авиакомпаний.
+3.     Удобный календарь дешевых авиабилетов.
+4.     Дает максимально полную информацию об источниках поиска.
+5.     Содержит массу дополнительной полезной информации по поиску отелей, проката автомобилей и туризму.</p>
+
+<p><img src="https://lh6.googleusercontent.com/-0M6PYqZvUis/U0UpeLRJG3I/AAAAAAAAAU0/MzDO7ym2cbo/w600-h460-no/163_2809_mot.jpg" alt="" /></p>
+
+<h3>Почему стоит выбирать MOMONDO?</h3>
+
+<p><strong><a href="www.momondo.com">momondo</a></strong> &ndash; это без сомнений быстрый и удобный способ перелета. Услугами международной системы пользуются многие люди по всему миру. Через момондо можно сделать заказа, где гарантирована конфиденциальность. Момондо сервис, который дает возможность быстро принять выгодное решение, что позволит Вам, Вашим друзьям коллегам совершать деловые поездки и путешествия, на протяжении которых Вы сможете получить удовольствие.</p>
+
+<p><img src="https://lh5.googleusercontent.com/-4nINg7LjOXI/U0UpqMq2YSI/AAAAAAAAAY8/B2dwd-8OWTs/s300-no/unnamed.png" alt="" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Agoda - надежное бронирование отелей]]></title>
     <link href="http://sitym.com/agoda/"/>
     <updated>2014-04-14T12:00:31+03:00</updated>
     <id>http://sitym.com/agoda</id>
     <content type="html"><![CDATA[<p><img src="https://lh6.googleusercontent.com/-xFJmrdTxCUU/U0UpieTckfI/AAAAAAAAAWY/piUJ7nELOqc/w851-h316-no/538868_10150799085871874_1152198354_n.jpg" alt="" /></p>
 
-<h3>Факты о компании Agoda.com</h3>
+<h3>Факты о компании <a href="http://agoda.com">Agoda.com</a></h3>
 
 <!-- more -->
 
@@ -42,7 +74,7 @@
 
 <h3>Гарантия лучшей цены</h3>
 
-<p><strong>Agoda</strong> предлагает стандартную для гостиничных порталов гарантию: сделав предоплаченное бронирование, вы можете в течение 24 часов переслать в службу поддержки адрес сайта-конкурента, на котором тот же номер стоит дешевле, и Agoda предложит такую же цену или ниже.</p>
+<p><strong><a href="http://agoda.com">Agoda</a></strong> предлагает стандартную для гостиничных порталов гарантию: сделав предоплаченное бронирование, вы можете в течение 24 часов переслать в службу поддержки адрес сайта-конкурента, на котором тот же номер стоит дешевле, и Agoda предложит такую же цену или ниже.</p>
 ]]></content>
   </entry>
   
